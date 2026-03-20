@@ -4,7 +4,7 @@ Violet Void theme for kitty — a dark, vibrant terminal theme with purple and c
 
 ## Preview
 
-![Violet Void kitty theme](preview.png)
+An interactive color preview is available at [`preview.html`](preview.html) — open it in any browser to see the full palette and a simulated terminal using the theme colors.
 
 ## Installation
 
